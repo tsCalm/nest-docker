@@ -1,4 +1,4 @@
-## Docker 테스트 과정
+## 테스트 과정
 
 1. Dockerfile을 생성한다.
 
@@ -19,6 +19,8 @@
 - docker kill CONTAINER_ID
 - docker stop CONTAINER_ID
 - dockker rm CONTAINEr_ID
+
+---
 
 ## docker run [ -dp ] 는 무엇을 의미하는걸까?
 
